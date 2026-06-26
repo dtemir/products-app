@@ -63,6 +63,12 @@ The frontend is a React app listing products and allowing new product creation.
 
 ---
 
+## Verify
+
+![alt text](image.png)
+
+---
+
 ## Notes
 
 ### Deviations from the Preferred Stack
